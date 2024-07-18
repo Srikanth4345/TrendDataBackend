@@ -1,0 +1,7 @@
+C:\Users\lttsadmin\TrendDataBackend\TrendData.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_TrendData.Tests
+C:\Users\lttsadmin\TrendDataBackend\TrendData.Tests\obj\Debug\net8.0\TrendData.Tests.csproj.AssemblyReference.cache
+C:\Users\lttsadmin\TrendDataBackend\TrendData.Tests\obj\Debug\net8.0\TrendData.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lttsadmin\TrendDataBackend\TrendData.Tests\obj\Debug\net8.0\TrendData.Tests.AssemblyInfoInputs.cache
+C:\Users\lttsadmin\TrendDataBackend\TrendData.Tests\obj\Debug\net8.0\TrendData.Tests.AssemblyInfo.cs
+C:\Users\lttsadmin\TrendDataBackend\TrendData.Tests\obj\Debug\net8.0\TrendData.Tests.csproj.CoreCompileInputs.cache
+C:\Users\lttsadmin\TrendDataBackend\TrendData.Tests\obj\Debug\net8.0\TrendData.Tests.sourcelink.json
